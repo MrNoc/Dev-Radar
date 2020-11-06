@@ -1,0 +1,17 @@
+#app{
+    /*Largura da tela. */
+    max-width: 1200px;
+    /* Se a tela do usuário for muito grande, irá redimensionar automaticamente. */
+    margin: 0 auto;
+
+    /* Preenchimento*/
+    padding: 60px 30px;
+
+    display: flex;
+
+    /* Alinha o Sidebar e o Main uma ao lado do outro. */
+    flex-direction: row;
+
+    /* Irá deixar o Sidebar e o Main alinhandos ao topo. */
+    align-items: flex-start;
+}
