@@ -3,7 +3,7 @@
  
  Etapas ja concluídas:
  - Prmeira etapa: Instalação de ferramentas necessárias para o projeto.
- - Segunda etapa: Criando a base da aplicação(servidor backend utilizando o banco de dados não relacional chamado MongoDB).
+ - Segunda etapa: Criando a base da aplicação(servidor backend utilizando o banco de dados não relacional, o MongoDB).
  - Terceira etapa: Construindo a interface web e direcionando a regra de negócios.
  
  Etapas pendentes:
