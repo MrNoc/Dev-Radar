@@ -15,3 +15,4 @@
  - Adicionar botão de deletar usuário de suas conexões, removendo o mesmo do banco de dados.
  - Mover o usuário para o perfil do github após clicar em "Acessar pefil do github".
  - Adicionar um contador da lista de Dev's. 
+ - Comentar todo o código.
