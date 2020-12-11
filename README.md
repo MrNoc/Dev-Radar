@@ -1,5 +1,5 @@
 # DevRadar 
- Sobre o Projeto 🧲
+ Sobre o Projeto 📡
 
  Este projeto é destinado a quem procura uma mão de obra com algumas tecnologias específicas e também Dev's que procuram outros Dev's para um projeto.
  Status do projeto: Em processo de conclusão.
@@ -21,6 +21,7 @@
  
  
  Observações 📌
+ 
 Irei realizar algumas alterações que vão além do projeto, como adição de botões para exclusão direta no BD, alterações feitas na parte do cadastro e também a parte de setar a distância que o Dev está do cliente.
 
 
