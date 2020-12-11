@@ -1,4 +1,4 @@
-# DevRadar 
+# Dev-Radar 
  Sobre o Projeto 📡
 
  Este projeto é destinado a quem procura uma mão de obra com algumas tecnologias específicas e também Dev's que procuram outros Dev's para um projeto.
