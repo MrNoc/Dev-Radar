@@ -1,5 +1,6 @@
 main {
     flex: 1;
+    
 }
 
 main ul {
@@ -7,8 +8,10 @@ main ul {
     grid-template-columns: repeat(2, 1fr);
     gap:20px;
     list-style: none;
+    padding: 5%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
-
+/* Quanto chega a 650px, o main vai para baixo do side bar como uma coluna de usuários. */
 @media (max-width: 650px) {
     main ul {
         grid-template-columns: 1fr;
@@ -21,6 +24,7 @@ main ul {
     margin-left: 30px;
 }
 
+/* Joga o main pra baixo do form quando a tela chega em 1000px. */
 @media (max-width: 1000px) {
     #app{
     flex-direction: column;

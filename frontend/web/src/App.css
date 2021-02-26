@@ -1,6 +1,7 @@
 #app{
     /*Largura da tela. */
     max-width: 1200px;
+    
     /* Se a tela do usuário for muito grande, irá redimensionar automaticamente. */
     margin: 0 auto;
 
@@ -14,4 +15,9 @@
 
     /* Irá deixar o Sidebar e o Main alinhandos ao topo. */
     align-items: flex-start;
+}
+h1 {
+    text-align: center;
+    background-color: #7d40e7;
+    color: #fff;
 }

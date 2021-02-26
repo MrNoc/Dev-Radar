@@ -6,6 +6,8 @@ import'./App.css';
 import'./Sidebar.css';
 import'./Main.css';
 
+
+
 import DevItem from './components/DevItem'
 import DevForm from './components/DevForm'
 
@@ -41,18 +43,19 @@ function App() {
   return (
     <div id="app">
       <aside>
-        <strong>Cadastrar</strong>
+        <strong>Cadastrar Dev 👨‍💻</strong>
         <DevForm onSubmit={handleAddDev} />
       </aside>
 
       <main>
+        <h1>Lista de Dev's Cadastrados:</h1>
         <ul>
           {devs.map(dev => (
             <DevItem key={dev._id} dev={dev} />
+            
           ))}
         </ul>
       </main>
-      
     </div>  
   );
 }

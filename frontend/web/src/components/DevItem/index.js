@@ -7,6 +7,7 @@ import './styles.css'
 function DevItem({ dev }) {
     return (
         <li className="dev-item">
+
             <header>
                 <img src={dev.avatar_url} alt={dev.name} />
                 <div className="user-info">
@@ -15,7 +16,7 @@ function DevItem({ dev }) {
                 </div>
             </header>
             <p>{dev.bio}</p>
-            <a href={`https://github.com/${dev.gitghub_username}`}>Acessar perfil do github</a>
+            <a href={`https://github.com/${dev.github_username}`}>Acessar perfil do github</a>
         </li>
     );
 }
