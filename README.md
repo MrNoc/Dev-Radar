@@ -27,9 +27,8 @@ Irei realizar algumas alterações que vão além do projeto, como adição de b
 
  Etapas pendentes:
  - Adicionar botão de deletar usuário de suas conexões, removendo o mesmo do banco de dados.
- - Mover o usuário para outra aba, abrindo o perfil do github após clicar em "Acessar perfil do github".
  - Adicionar um contador da lista de Dev's. 
- - Comentar todo o código.
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Criado por:
 RocketSeat 🚀
