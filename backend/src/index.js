@@ -7,7 +7,7 @@ const cors = require('cors');
 
 const app = express();
 
-//Contém a string de conexão com o MongoDB
+//Contém a string de conexão com o MongoDB.
 mongoose.connect('mongodb+srv://AquinoWP:hP9qM1quRtUoPOHM@cluster0.dfhzx.mongodb.net/week10?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true
